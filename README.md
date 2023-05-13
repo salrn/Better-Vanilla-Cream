@@ -1,5 +1,6 @@
 # Better-Vanilla-Cream
 Makes your Vanilla Minecraft experience for Fabric better. These are client-side! You wont get banned on any servers.
+![New Project (38)](https://github.com/salrn/Better-Vanilla-Cream/assets/118051474/f14e0c2b-b10f-4317-87bf-2933a35281c1)
 
 Current Version supported: 1.19.4
 
