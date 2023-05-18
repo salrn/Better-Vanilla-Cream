@@ -3,6 +3,7 @@ Makes your Vanilla Minecraft experience for Fabric better. These are client-side
 ![New Project (38)](https://github.com/salrn/Better-Vanilla-Cream/assets/118051474/f14e0c2b-b10f-4317-87bf-2933a35281c1)
 (logo by me, order some like that by dming me in discord: Salami Ninja#3027)
 
+im frustrated that github litteraly only wants 1 space between texts...
 
 VirusTotal scan: https://www.virustotal.com/gui/file/50b0914525d5e1a8e168e86c28a9184368cf5b0d60bd2200ef191c47522b7b47?nocache=1
 
@@ -33,130 +34,81 @@ And put all of the mod Files in there. Done!
 
 Quick Tutorial for the Resource pack. First in Minecraft, go to options, Resource packs and then press Open Pack folder. Import the Resource Pack in there and close the window. The pack should be imported!
 
-All mods Included: 
+All mods Included and what they do
 
 
-AppleSkin
+        AppleSkin  : Shows how much The selected item (food) gives you coiles or other stuff that has to do with Food.
 https://www.curseforge.com/minecraft/mc-mods/appleskin
 
-3D Skin Layers
+        3D Skin Layers  : Tells it in the name.
 https://modrinth.com/mod/3dskinlayers
 
-Architectury (api)
+        Architectury (api) : API, required for some mods.
 https://www.curseforge.com/minecraft/mc-mods/architectury-api
 
-Better Recipe Book / brb
+        Better Recipe Book / brb  : Tells it in the name.
 https://www.curseforge.com/minecraft/mc-mods/brb
 
-BetterF3
+        BetterF3  : Tells it in the name.
 https://www.curseforge.com/minecraft/mc-mods/betterf3
 
-CIT Resewn
+        CIT Resewn : Adds OptiFine functions/resource pack stuff into the game.
 https://www.curseforge.com/minecraft/mc-mods/cit-resewn
 
-Cloth Config v10 (api)
-https://www.curseforge.com/minecraft/mc-mods/cloth-config
+        Cloth Config v10 (api) : API, required for some mods.
+https://www.curseforge.com/minecraft/mc-mods/cloth-
 
-[Currently Broken]EnchantmentDescriptions
+        [Currently Broken]EnchantmentDescriptions  : Tells it in the name.
 https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
 
-Essential (aka- essential-container)
+        Essential (aka- essential-container) : To much to explain here, it could be a whole client.
 https://essential.gg/
 
-Fabric (api)
+        Fabric (api) : API, required for ALL mods included here.
 https://www.curseforge.com/minecraft/mc-mods/fabric-api
 
-Gamma Utils
+        Gamma Utils : Basically fullbright.
 https://www.curseforge.com/minecraft/mc-mods/gamma-utils
 
-Iris
+        Iris : Shadeeerrsss
 https://modrinth.com/mod/iris
 
-JamLib (api)
+        JamLib (api) : API, required for some mods.
 https://www.curseforge.com/minecraft/mc-mods/jamlib
 
-LambDynamicLights
+        LambDynamicLights : If you hold a torch, the light moves with you. I think you get it now.
 https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
 
-MinecraftCapes Mod [OPTIONAL, NOT INCLUDED IN PACK]
+        MinecraftCapes Mod [OPTIONAL, NOT INCLUDED IN PACK] : Tells it in name.
 https://minecraftcapes.net/
 
-Mod Menu
+        Mod Menu  : Tells it in the name.
 https://modrinth.com/mod/modmenu?fromcf
 
-Reeses Sodium Options
+        Reeses Sodium Options : Adds some more options for Sodium
 https://modrinth.com/mod/reeses-sodium-options
 
-Right Click Harvest
+        Right Click Harvest  : Tells it in the name.
 https://www.curseforge.com/minecraft/mc-mods/rightclickharvest
 
-Screenshot Viewer
+        Screenshot Viewer  : Tells it in the name.
 https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer
 
-ShulkerBoxToolTip
+        ShulkerBoxToolTip  : Tells it in the name.
 https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
 
-Sodium
+        Sodium : Improves FPS and better OptiFine when mixed with Iris.
 https://modrinth.com/mod/sodium
 
-ToolTip Fix
+        ToolTip Fix  : Tells it in the name.
 https://www.curseforge.com/minecraft/mc-mods/tooltipfix
 
-Visuality
+        Visuality : Adds more visual stuff.
 https://www.curseforge.com/minecraft/mc-mods/visuality
 
-WI Zoom
+        WI Zoom  : Allows you to zoom.
 https://www.curseforge.com/minecraft/mc-mods/wi-zoom
 
-What do these mods do?
-
-AppleSkin : Shows how much The selected item (food) gives you coiles or other stuff that has to do with Food.
-
-3D Skin Layers : Tells it in the name.
-
-Architectury (api) : API, required for some mods
-
-Better Recipe Book : Tells it in name. Also adds a Recipe Book for Brewing Table
-
-BetterF3 : Tells it in name.
-
-CIT Resewn : Adds the OptiFine Stuff.
-
-Cloth Config v10 (api) : API, required for some mods
-
-[Currently Broken]EnchantmentDescriptions : Tells it in name
-
-Essential (aka- essential-container) : Adds Essential Stuff. To much to explain here
-
-Fabric (api) : Required to even play the game with Fabric
-
-Gamma Utils : Fullbright
-
-Iris : Shaders
-
-JamLib (api) : API, required for some mods
-
-LambDynamicLights : Tells it in name. Basically, You hold a torch, and the light moves with you.
-
-MinecraftCapes Mod [OPTIONAL, NOT INCLUDED IN PACK] : Free Minecraft CAPES. More info here: https://minecraftcapes.net/
-
-Mod Menu : Allows you to see all the mods and edit the settings on them
-
-Reeses Sodium Options : Adds more options to Sodium
-
-Right Click Harvest : Tells it in name.
-
-Screenshot Viewer : Tells it in name.
-
-ShulkerBoxToolTip : Tells it in name.
-
-Sodium : You might have heard about this. Also gives you more FPS and better Graphic Options.
-
-ToolTip Fix : Tells it in name.
-
-Visuality : Adds more Visual Stuff.
-
-WI Zoom : Allows you to Zoom.
 
 
 Now info about the Resource pack. Here is what is in the Pack (according to VanillaTweaks) and what they do is already in the name.
@@ -164,93 +116,178 @@ Now info about the Resource pack. Here is what is in the Pack (according to Vani
 Vanilla Tweaks Resource Pack / Modded up a bit by BVC Repo
 Version: 1.19
 Packs:
-	ItemStitchingFix
+
+        ItemStitchingFix
+	
 	JappaObserver
+	
 	JappaToasts
+	
 	JappaStatsIcons
+	
 	JappaSpecIcons
+	
 	CloudFogFix
+	
 	CatFix
+	
 	HopperBottomFix
+	
 	HoeFix
+	
 	DoubleSlabFix
+	
 	IronBarsFix
+	
 	ProperBreakParticles
+	
 	NicerFastLeaves
+	
 	SlimeParticleFix
+	
 	BlazeFix
+	
 	SoulSoilSoulCampfire
+	
 	PixelConsistentGuardianBeam
+	
 	PixelConsistentSonicBoom
+	
 	PixelConsistentBeaconBeam
+	
 	PixelConsistentXPOrbs
+	
 	PixelConsistentSigns
+	
 	TripwireHookFix
+	
 	PixelConsistentWither
+	
 	PixelConsistentElderGuardian
+	
 	PixelConsistentGhast
+	
 	PixelConsistentBat
+	
 	ConsistentHelmets
+	
 	CactusBottomFix
+	
 	ConsistentTadpoleBucket
+	
 	ConsistentBucketFix
+	
 	DripleafFixSmall
+	
 	DripleafFixBig
+	
 	RedstoneWireFix
+	
 	LegacyEmerald
+	
 	LegacySnowball
+	
 	OldXpSounds
+	
 	NoPanoramaOverlay
+	
 	ConsolePanoramaTU70
+	
 	SpruceWoodPlanks
+	
 	LiteralGameruleNames
+	
 	PingColorIndicator
+	
 	WitherHearts
+	
 	UnobtrusiveRain
+	
 	UnobtrusiveSnow
+	
 	LowerFire
+	
 	LowerShield
+	
 	TransparentPumpkin
+	
 	VisualInfestedStoneItems
+	
 	ClearBannerPatterns
+	
 	Age25Kelp
+	
 	GroovyLevers
+	
 	QuieterThunder
+	
 	RandomCoarseDirtRotation
+	
 	VariatedDirt
+	
 	VariatedGrass
+	
 	VariatedCobblestone
+	
 	RandomMossRotation
+	
 	VariatedBricks
+	
 	VariatedPlanks
+	
 	VariatedGravel
+	
 	VariatedStone
+	
 	VariatedLogs
+	
 	VariatedMushroomBlocks
+	
 	VariatedEndStone
+	
 	VariatedTerracotta
+	
 	VariatedUnpolishedStones
+	
 	VariatedMycelium
+	
 	VariatedBookshelves
+	
 	ShorterGrass
+	
 	ShorterTallGrass
+	
 	BrighterNether
+	
 	StemToLog
+	
 	BetterParticles
+	
 	RedIronGolemFlowers
+	
 	BrownLeather
+	
 	HorizontalNuggets
+	
 	AnimatedCampfireItem
+	
 	FlintTippedArrows
+	
 	SmootherWarpedPlanks
+	
 	JappaRecipeButton
+	
 	ConsistentUIFix
+	
 	NoBowlParticles
+	
 	ItemHoldFix
 
 Combined packs:
-	ItemHoldFix+NoBowlParticles
-	ConsistentUIFix+JappaRecipeButton
+	
+ItemHoldFix+NoBowlParticles
+
+ConsistentUIFix+JappaRecipeButton
 
 
 Thats it! Thanks for downloading. Any issues? Report them to the MOD creators, or make a issue on this repo!
