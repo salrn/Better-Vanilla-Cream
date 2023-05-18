@@ -10,6 +10,7 @@ VirusTotal scan: https://www.virustotal.com/gui/file/50b0914525d5e1a8e168e86c28a
 
 
 Current Version supported: 1.19.4
+Current ResourcePack supported Version: 1.19-1.19.4 (vanillatweaks.com ver.)
 
 You can get Fabric here - https://fabricmc.net/use/installer/
 
@@ -22,6 +23,7 @@ After downloaded, just select the Newest or Supported Version and you are (almos
 Now press your windows button and type "run". After that, press ENTER. Type %appdata%. You will end up in explorer. Click on .minecraft (it should be on the top)
 And put all of the mod Files in there. Done!
 
+Quick Tutorial for the Resource pack. First in Minecraft, go to options, Resource packs and then press Open Pack folder. Import the Resource Pack in there and close the window. The pack should be imported!
 
 All mods Included: 
 
