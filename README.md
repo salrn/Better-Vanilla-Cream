@@ -1,7 +1,7 @@
 # Better-Vanilla-Cream
 Makes your Vanilla Minecraft experience for Fabric better. These are client-side! You wont get banned on any servers.
 ![New Project (38)](https://github.com/salrn/Better-Vanilla-Cream/assets/118051474/f14e0c2b-b10f-4317-87bf-2933a35281c1)
-(logo by me)
+(logo by me, order some like that by dming me in discord: Salami Ninja#3027)
 
 
 VirusTotal scan: https://www.virustotal.com/gui/file/50b0914525d5e1a8e168e86c28a9184368cf5b0d60bd2200ef191c47522b7b47?nocache=1
@@ -11,6 +11,14 @@ VirusTotal scan: https://www.virustotal.com/gui/file/50b0914525d5e1a8e168e86c28a
 
 Current Version supported: 1.19.4
 Current ResourcePack supported Version: 1.19-1.19.4 (vanillatweaks.com ver.)
+
+(Info about resource packs is very down bellow)
+
+
+
+
+
+
 
 You can get Fabric here - https://fabricmc.net/use/installer/
 
@@ -151,5 +159,100 @@ Visuality : Adds more Visual Stuff.
 WI Zoom : Allows you to Zoom.
 
 
+Now info about the Resource pack. Here is what is in the Pack (according to VanillaTweaks) and what they do is already in the name.
+
+Vanilla Tweaks Resource Pack / Modded up a bit by BVC Repo
+Version: 1.19
+Packs:
+	ItemStitchingFix
+	JappaObserver
+	JappaToasts
+	JappaStatsIcons
+	JappaSpecIcons
+	CloudFogFix
+	CatFix
+	HopperBottomFix
+	HoeFix
+	DoubleSlabFix
+	IronBarsFix
+	ProperBreakParticles
+	NicerFastLeaves
+	SlimeParticleFix
+	BlazeFix
+	SoulSoilSoulCampfire
+	PixelConsistentGuardianBeam
+	PixelConsistentSonicBoom
+	PixelConsistentBeaconBeam
+	PixelConsistentXPOrbs
+	PixelConsistentSigns
+	TripwireHookFix
+	PixelConsistentWither
+	PixelConsistentElderGuardian
+	PixelConsistentGhast
+	PixelConsistentBat
+	ConsistentHelmets
+	CactusBottomFix
+	ConsistentTadpoleBucket
+	ConsistentBucketFix
+	DripleafFixSmall
+	DripleafFixBig
+	RedstoneWireFix
+	LegacyEmerald
+	LegacySnowball
+	OldXpSounds
+	NoPanoramaOverlay
+	ConsolePanoramaTU70
+	SpruceWoodPlanks
+	LiteralGameruleNames
+	PingColorIndicator
+	WitherHearts
+	UnobtrusiveRain
+	UnobtrusiveSnow
+	LowerFire
+	LowerShield
+	TransparentPumpkin
+	VisualInfestedStoneItems
+	ClearBannerPatterns
+	Age25Kelp
+	GroovyLevers
+	QuieterThunder
+	RandomCoarseDirtRotation
+	VariatedDirt
+	VariatedGrass
+	VariatedCobblestone
+	RandomMossRotation
+	VariatedBricks
+	VariatedPlanks
+	VariatedGravel
+	VariatedStone
+	VariatedLogs
+	VariatedMushroomBlocks
+	VariatedEndStone
+	VariatedTerracotta
+	VariatedUnpolishedStones
+	VariatedMycelium
+	VariatedBookshelves
+	ShorterGrass
+	ShorterTallGrass
+	BrighterNether
+	StemToLog
+	BetterParticles
+	RedIronGolemFlowers
+	BrownLeather
+	HorizontalNuggets
+	AnimatedCampfireItem
+	FlintTippedArrows
+	SmootherWarpedPlanks
+	JappaRecipeButton
+	ConsistentUIFix
+	NoBowlParticles
+	ItemHoldFix
+
+Combined packs:
+	ItemHoldFix+NoBowlParticles
+	ConsistentUIFix+JappaRecipeButton
+
 
 Thats it! Thanks for downloading. Any issues? Report them to the MOD creators, or make a issue on this repo!
+
+Making a discord soon, if this repo gets 15 stars or just gets some attention at all.
