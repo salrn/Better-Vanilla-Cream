@@ -116,7 +116,7 @@ Cloth Config v10 (api) : API, required for some mods
 
 [Currently Broken]EnchantmentDescriptions : Tells it in name
 
-Essential (aka- essential-container) : Adds Esssential Stuff. To much to explain here
+Essential (aka- essential-container) : Adds Essential Stuff. To much to explain here
 
 Fabric (api) : Required to even play the game with Fabric
 
@@ -150,4 +150,4 @@ WI Zoom : Allows you to Zoom.
 
 
 
-Thanks it! Thanks for downloading. Any issues? Report them to the MOD creators, or make a issue on this repo!
+Thats it! Thanks for downloading. Any issues? Report them to the MOD creators, or make a issue on this repo!
