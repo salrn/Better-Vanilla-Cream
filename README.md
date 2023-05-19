@@ -108,8 +108,44 @@ https://www.curseforge.com/minecraft/mc-mods/visuality
 
         WI Zoom  : Allows you to zoom.
 https://www.curseforge.com/minecraft/mc-mods/wi-zoom
+	
+	Fabric Language Kotlin (api) : API, required for some mods.
+https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files
 
-
+	Starlight (fabric) : New Light rendering system. Take it as better Performance for short.
+https://www.curseforge.com/minecraft/mc-mods/starlight
+	
+	Sodium Extra : Tells it in name.
+https://modrinth.com/mod/sodium-extra
+	
+	OptiGUI : "Optifine Costum GUIs" Idk, Optifine Stuff.
+https://www.curseforge.com/minecraft/mc-mods/optigui
+	
+	Mouse Wheelie : Better Mouse scrolling in some Menus/GUIs.
+https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie/files
+	
+	
+	Model Gap Fix : Tells it in name.
+https://modrinth.com/mod/modelfix
+	
+	
+	MidnightControls : Cool mod for better Controling. Here are some cool features: Controller Support, Touchscreen support and see more at the mod page.
+https://modrinth.com/mod/midnightcontrols
+	
+	
+	Memory Leak Fix : Tells it in name.
+https://modrinth.com/mod/memoryleakfix
+	
+	
+	Lithium : Idk, but better Performance ig.
+https://modrinth.com/mod/lithium
+	
+	ImmediatelyFast : Better Performance.
+https://modrinth.com/mod/immediatelyfast
+	
+	Not Enough Animations : Adds better F5 Animations and keeps it in the Vanilla Style.
+https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
+	
 
 Now info about the Resource pack. Here is what is in the Pack (according to VanillaTweaks) and what they do is already in the name.
 
@@ -285,9 +321,9 @@ Packs:
 
 Combined packs:
 	
-ItemHoldFix+NoBowlParticles
+        ItemHoldFix+NoBowlParticles
 
-ConsistentUIFix+JappaRecipeButton
+        ConsistentUIFix+JappaRecipeButton
 
 
 Thats it! Thanks for downloading. Any issues? Report them to the MOD creators, or make a issue on this repo!
