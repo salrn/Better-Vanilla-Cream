@@ -100,9 +100,6 @@ https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
         Sodium : Improves FPS and better OptiFine when mixed with Iris.
 https://modrinth.com/mod/sodium
 
-        ToolTip Fix  : Tells it in the name.
-https://www.curseforge.com/minecraft/mc-mods/tooltipfix
-
         Visuality : Adds more visual stuff.
 https://www.curseforge.com/minecraft/mc-mods/visuality
 
@@ -146,6 +143,13 @@ https://modrinth.com/mod/immediatelyfast
 	Not Enough Animations : Adds better F5 Animations and keeps it in the Vanilla Style.
 https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
 	
+	Continuity : Makes connected Blocks.
+https://www.curseforge.com/minecraft/mc-mods/continuity
+	
+	Indium : Better Fabric Rendering and stuff. Kind of like an API.
+https://www.curseforge.com/minecraft/mc-mods/indium
+
+
 
 Now info about the Resource pack. Here is what is in the Pack (according to VanillaTweaks) and what they do is already in the name.
 
