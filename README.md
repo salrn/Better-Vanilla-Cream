@@ -1,9 +1,9 @@
 # Better-Vanilla-Cream
-Makes your Vanilla Minecraft experience for Fabric better. These are client-side! You wont get banned on any servers. There are many features that are just small and compact, that make your live easier. Maybe in your survival world. Or a server you are on. BVC just adds simple useful (probably) features. Such as RightClick harvest, or auto-sorting for your inventory. Maybe inviting your friends into your world without knowing any server-knowledge, would interest you?  Or, well... Better performance than OptiFine :)
+Makes your Vanilla Minecraft experience for Fabric better. These are client-side! You wont get banned on any servers. There are many features that are just small and compact, that make your live easier. Maybe in your survival world. Or a server you are on. BVC just adds simple useful (probably) features. Such as RightClick harvest, or auto-sorting for your inventory. Maybe inviting your friends into your world without knowing any server-knowledge, would interest you? Or, well... Better performance than OptiFine :) All while not breaking any vanilla-mechanics.
 ![New Project (38)](https://github.com/salrn/Better-Vanilla-Cream/assets/118051474/f14e0c2b-b10f-4317-87bf-2933a35281c1)
 (logo by me, order some like that by dming me in discord: Salami Ninja#3027)
 
-BVC IS NOW ON MODRINTH!!!
+im frustrated that github litteraly only wants 1 space between texts...
 
 VirusTotal scan: https://www.virustotal.com/gui/file/50b0914525d5e1a8e168e86c28a9184368cf5b0d60bd2200ef191c47522b7b47?nocache=1
 
