@@ -3,7 +3,7 @@ Makes your Vanilla Minecraft experience for Fabric better. These are client-side
 ![New Project (38)](https://github.com/salrn/Better-Vanilla-Cream/assets/118051474/f14e0c2b-b10f-4317-87bf-2933a35281c1)
 (logo by me, order some like that by dming me in discord: Salami Ninja#3027)
 
-im frustrated that github litteraly only wants 1 space between texts...
+BVC IS NOW ON MODRINTH!!!
 
 VirusTotal scan: https://www.virustotal.com/gui/file/50b0914525d5e1a8e168e86c28a9184368cf5b0d60bd2200ef191c47522b7b47?nocache=1
 
