@@ -5,8 +5,6 @@ Makes your Vanilla Minecraft experience for Fabric better. These are client-side
 
 im frustrated that github litteraly only wants 1 space between texts...
 
-VirusTotal scan: https://www.virustotal.com/gui/file/50b0914525d5e1a8e168e86c28a9184368cf5b0d60bd2200ef191c47522b7b47?nocache=1
-
 
 
 
