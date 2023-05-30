@@ -148,6 +148,12 @@ https://www.curseforge.com/minecraft/mc-mods/continuity
 	
 	Indium : Better Fabric Rendering and stuff. Kind of like an API.
 https://www.curseforge.com/minecraft/mc-mods/indium
+	
+	Tool Stats : Tells it in name.
+https://www.curseforge.com/minecraft/mc-mods/tool-stats
+	
+	Status Effect Bar : Tells it in name.
+https://www.curseforge.com/minecraft/mc-mods/status-effect-bars
 
 
 
